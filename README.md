@@ -8,4 +8,4 @@ documentation.
 ## Table Of Contents
 |Library Name|Description|Language|LoC|Version|
 |-------|------------|----------|--------------|---------|
-|isinrange.h|Checks if a number is in range/s|C|95|1.0|
+|inrange.h|Checks if a number is in range/s|C|95|1.0|
